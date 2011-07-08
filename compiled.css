@@ -1,0 +1,1414 @@
+*
+{
+  margin:0;
+}
+
+#footer p
+{
+  margin:6px 20px 0 0;
+}
+
+#content
+{
+  margin:-48px 0 0 24px;
+}
+
+.contact-list .friends_loader
+{
+  margin:0 25px 0 10px;
+}
+
+.contact-list .no-results
+{
+  margin:0px 9px 20px 0px;
+}
+
+.contact-list li.user-box
+{
+  margin:0 8px 15px 0;
+}
+
+*,.carousel ul li
+{
+  padding:0;
+}
+
+#header
+{
+  padding:34px 20px 20px;
+}
+
+.btn-list
+{
+  padding:20px 0;
+}
+
+#header ul li a,
+.btn,
+.pagination a,.pagination span.current
+{
+  padding:7px 10px;
+}
+
+#content
+{
+  padding:30px 20px 40px;
+}
+
+#footer
+{
+  padding:38px 20px 20px;
+}
+
+.contact-list .friends_loader
+{
+  padding:20px 20px 20px 65px;
+}
+
+.contact-list .no-results,.contact-list li.user-box
+{
+  padding:15px;
+}
+
+.about-steps ol,
+.about-steps ul
+{
+  padding:30px 50px;
+}
+
+.about-steps li
+{
+  padding:8px 20px 35px 90px;
+}
+
+.profile p
+{
+  padding:20px 60px 20px;
+}
+
+.profile form
+{
+  padding:20px 20px 20px;
+}
+
+.profile form p
+{
+  padding:0 0 10px 0;
+}
+
+.search input#term
+{
+  padding:4px 27px 4px 9px;
+}
+
+.page
+{
+  padding:20px;
+}
+
+.tipsy
+{
+  padding:5px;
+}
+
+.tipsy-inner
+{
+  padding:5px 8px 4px 8px;
+}
+
+.tipsy form
+{
+  padding:7px 7px 0 3px;
+}
+
+*,.search input#term
+{
+  outline:none;
+}
+
+body
+{
+  width:742px;
+}
+
+h2
+{
+  width:420px;
+}
+
+#header,
+#content
+{
+  width:700px;
+}
+
+#header .logo,
+#footer .logo
+{
+  width:193px;
+}
+
+#header ul
+{
+  width:400px;
+}
+
+.pagination a.loading,.search button
+{
+  width:12px;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  width:14px;
+}
+
+#content
+{
+  width:656px;
+}
+
+.contact-list
+{
+  width:105%;
+}
+
+.contact-list li.user-box,.carousel
+{
+  width:300px;
+}
+
+.contact-list li a.info-toggle,
+.contact-list li a.like-toggle
+{
+  width:43px;
+}
+
+.contact-list li a.info-toggle:active,
+.contact-list li a.like-toggle:active
+{
+  width:38px;
+}
+
+.contact-list dl dt
+{
+  width:120px;
+}
+
+.about-steps ol li span
+{
+  width:60px;
+}
+
+.carousel .thumbs
+{
+  width:100%;
+}
+
+.carousel ul
+{
+  width:9999em;
+}
+
+.carousel .next,
+.carousel .prev
+{
+  width:24px;
+}
+
+.profile form label,.friends-nav
+{
+  width:200px;
+}
+
+.search
+{
+  width:215px;
+}
+
+.search input#term
+{
+  width:175px;
+}
+
+.page h2
+{
+  width:auto;
+}
+
+.tipsy-arrow
+{
+  width:9px;
+}
+
+.tipsy-e .tipsy-arrow,.tipsy-w .tipsy-arrow
+{
+  width:5px;
+}
+
+body,p,
+h2,
+a,.contact-list .no-results
+{
+  font-family:Arial, sans-serif;
+}
+
+h1,h3 a,.about-steps ol li strong,
+.about-steps h2,
+.page h2 a
+{
+  font-family:'Lucida Grande', Arial, sans-serif;
+}
+
+::-moz-selection,::selection,#footer p,#footer a,#header ul li a,
+.btn,
+.pagination a,.btn-list li a span,
+#header ul li a span,.tipsy form p
+{
+  color:#FFF;
+}
+
+p,
+h2,
+a,.contact-list dl dt,.friends-nav li.active a,.search input#term,.search label,.page ul
+{
+  color:#666;
+}
+
+a
+{
+  color:#FF716B;
+}
+
+h1,#header ul li a.active,.about-steps ol li strong,
+.about-steps h2,
+.page h2 a
+{
+  color:#333;
+}
+
+h3 a
+{
+  color:#333333;
+}
+
+.btn-list .active,.contact-list .friends_loader,.contact-list .no-results
+{
+  color:#ED3835;
+}
+
+.contact-list dl dd
+{
+  color:#999999;
+}
+
+.tipsy-inner
+{
+  color:white;
+}
+
+::-moz-selection,::selection,#header ul li a,
+.btn,
+.pagination a,.btn-list li a span,
+#header ul li a span
+{
+  background:#ED3835;
+}
+
+#header
+{
+  background:url('../images/bg_small_ribbon.png?12121') no-repeat left top;
+}
+
+#header .logo,
+#footer .logo
+{
+  background:url('../images/redbox.gif') no-repeat left bottom;
+}
+
+.pagination a.loading
+{
+  background:#ED3835 url('../images/loader_bg_red.gif') no-repeat center center;
+}
+
+#header ul li a.active,.contact-list .no-results
+{
+  background:#FFF;
+}
+
+.btn-list .active
+{
+  background:#FFEFEC;
+}
+
+#footer
+{
+  background:url('../images/bg_footer.png') no-repeat left top;
+}
+
+.contact-list .friends_loader
+{
+  background:#FFF url("../images/loader.gif") no-repeat 15px center;
+}
+
+.contact-list li a.sending span,
+.contact-list li a.sending:active span,
+.contact-list li a.sending:hover span
+{
+  background:url('../images/loader_toggle_like.gif') no-repeat 12px center;
+}
+
+.carousel .preview
+{
+  background:url('../images/loader.gif') no-repeat center center;
+}
+
+.carousel .next,
+.carousel .prev
+{
+  background:url('../images/bg_carousel_arrows.png') no-repeat left top;
+}
+
+.fans p
+{
+  background:url('../images/icons.png') no-repeat left 2px;
+}
+
+.search button
+{
+  background:url('../images/icon_search.png') no-repeat left top;
+}
+
+.tipsy-arrow
+{
+  background:url('../images/tipsy.gif') no-repeat top left;
+}
+
+p,
+h2,
+a,.about-steps li p strong,.profile form label,.pagination span.current,.page ul
+{
+  font-size:13px;
+}
+
+h1,.page h2 a,
+.about-steps h2
+{
+  font-size:18px;
+}
+
+h3 a,.about-steps ol li strong,
+.about-steps h2,
+.page h2 a
+{
+  font-size:16px;
+}
+
+.btn-list li a span,
+#header ul li a span,.search label
+{
+  font-size:11px;
+}
+
+.contact-list .friends_loader,.contact-list .no-results,.contact-list dl,.about-steps p,.about-steps p a,.fans p
+{
+  font-size:14px;
+}
+
+.tipsy
+{
+  font-size:10px;
+}
+
+p,
+h2,
+a,#footer a,.friends-nav li.active a
+{
+  font-weight:normal;
+}
+
+a,h1,h3 a,#header ul li a,
+.btn,
+.pagination a,.contact-list .friends_loader,.contact-list .no-results,.about-steps ol li strong,
+.about-steps h2,
+.page h2 a,.tipsy form p
+{
+  font-weight:bold;
+}
+
+p,
+h2,
+a,.about-steps p
+{
+  line-height:normal;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  line-height:1.3em;
+}
+
+.fans p
+{
+  line-height:1.4em;
+}
+
+.accessible,.contact-list .accessible,.carousel ul li a img,.carousel .accessible,.pagination .disabled
+{
+  display:none;
+}
+
+#header .logo,
+#footer .logo,#footer p,#header ul,#header ul li,.carousel ul li,.carousel ul li a,.friends-nav li
+{
+  display:inline;
+}
+
+#header ul li a,
+.btn,
+.pagination a,.contact-list .no-results,.contact-list li a.info-toggle,
+.contact-list li a.like-toggle,.contact-list li a.sending span,
+.contact-list li a.sending:active span,
+.contact-list li a.sending:hover span,.contact-list dl dd,.about-steps ol li span,.carousel .next,
+.carousel .prev,.search button
+{
+  display:block;
+}
+
+.btn,
+.btn-list li,
+.pagination a,
+.pagination span.current,.contact-list li.user-box,.profile form p button,
+.profile form p label,.user_actions_list li p span,
+.user_actions_list li p strong,
+.user_actions_list li p img
+{
+  display:inline-block;
+}
+
+a,.friends-nav li.active a
+{
+  text-decoration:none;
+}
+
+h3 a:hover,#footer a,.friends-nav a
+{
+  text-decoration:underline;
+}
+
+h1,.about-steps li p,.page li
+{
+  padding-bottom:10px;
+}
+
+.about-steps ol li strong,
+.about-steps h2,
+.page h2 a,.tipsy form p
+{
+  padding-bottom:3px;
+}
+
+.page h2 a,
+.about-steps h2,.user_actions_list li
+{
+  padding-bottom:15px;
+}
+
+.about-steps p
+{
+  padding-bottom:14px;
+}
+
+.search p
+{
+  padding-bottom:5px;
+}
+
+.page h2
+{
+  padding-bottom:30px;
+}
+
+.page p,
+.page ul,
+.page ol
+{
+  padding-bottom:20px;
+}
+
+.favorites-nav
+{
+  padding-bottom:0;
+}
+
+h3
+{
+  padding-right:90px;
+}
+
+#header ul
+{
+  padding-right:20px;
+}
+
+.profile form label
+{
+  padding-right:10px;
+}
+
+.friends-nav li
+{
+  padding-right:8px;
+}
+
+#header,.about-steps ol li span
+{
+  height:60px;
+}
+
+#header .logo,
+#footer .logo
+{
+  height:35px;
+}
+
+.btn-list li a span,
+#header ul li a span,.search button
+{
+  height:14px;
+}
+
+#footer,.contact-list li a.info-toggle,
+.contact-list li a.like-toggle,.contact-list li a.sending span,
+.contact-list li a.sending:active span,
+.contact-list li a.sending:hover span,.carousel .next,
+.carousel .prev
+{
+  height:40px;
+}
+
+.tipsy-arrow
+{
+  height:5px;
+}
+
+.tipsy-e .tipsy-arrow,.tipsy-w .tipsy-arrow
+{
+  height:9px;
+}
+
+#header,.btn-list,.contact-list dl,.carousel .thumbs,.carousel ul,.carousel .preview
+{
+  overflow:hidden;
+}
+
+#header
+{
+  margin-bottom:30px;
+}
+
+#header ul li a,
+.btn,
+.pagination a
+{
+  margin-bottom:2px;
+}
+
+#footer
+{
+  margin-bottom:40px;
+}
+
+.fans p
+{
+  margin-bottom:8px;
+}
+
+#header,#header ul li a:active,
+.btn:active,.btn-list li a,
+#header ul li a,#content,#footer,.contact-list li.user-box,.about-steps li,.carousel .thumbs,.carousel ul,.search
+{
+  position:relative;
+}
+
+.btn-list li a span,
+#header ul li a span,.contact-list li a.info-toggle,
+.contact-list li a.like-toggle,.about-steps ol li span,.carousel .next,
+.carousel .prev,.search button,.tipsy,.tipsy-arrow
+{
+  position:absolute;
+}
+
+#header
+{
+  z-index:3;
+}
+
+#content
+{
+  z-index:1;
+}
+
+#footer
+{
+  z-index:4;
+}
+
+.carousel .thumbs
+{
+  z-index:10;
+}
+
+.carousel .next,
+.carousel .prev
+{
+  z-index:100;
+}
+
+.tipsy
+{
+  z-index:100000;
+}
+
+#header .logo,
+#footer .logo,.contact-list dl dt,.carousel ul li
+{
+  float:left;
+}
+
+#footer p,#header ul,#header ul li,.friends-nav,.search
+{
+  float:right;
+}
+
+#header .logo,
+#footer .logo,#header ul li
+{
+  margin-left:10px;
+}
+
+.btn-list li
+{
+  margin-left:0px;
+}
+
+.contact-list
+{
+  margin-left:-10px;
+}
+
+.contact-list dl dd
+{
+  margin-left:130px;
+}
+
+.profile form  button
+{
+  margin-left:215px;
+}
+
+.es .tipsy-n .tipsy-arrow,.en .tipsy-n .tipsy-arrow,.tipsy-s .tipsy-arrow
+{
+  margin-left:-4px;
+}
+
+#header .logo,
+#footer .logo,.tipsy-e .tipsy-arrow,.tipsy-w .tipsy-arrow
+{
+  margin-top:-4px;
+}
+
+#footer
+{
+  margin-top:-30px;
+}
+
+.about-steps
+{
+  margin-top:10px;
+}
+
+.friends-nav
+{
+  margin-top:-45px;
+}
+
+.search
+{
+  margin-top:-46px;
+}
+
+#header .logo,
+#footer .logo,.contact-list li a.info-toggle,
+.contact-list li a.like-toggle,.search button
+{
+  text-indent:-9999em;
+}
+
+.pagination a.loading,.carousel .next,
+.carousel .prev
+{
+  text-indent:-99999em;
+}
+
+.btn-list,.contact-list,.about-steps li,.friends-nav
+{
+  list-style:none;
+}
+
+#header ul li a,
+.btn,
+.pagination a,.carousel ul li a,.carousel ul li a img,.search input#term,.search button
+{
+  border:none;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  border:2px solid #FFF;
+}
+
+.contact-list .friends_loader,.contact-list .no-results
+{
+  border:1px dashed #FFBAB9;
+}
+
+.contact-list li.user-box
+{
+  border:1px dashed #FFAEAA;
+}
+
+#header ul li a,
+.btn,
+.pagination a,.contact-list .reasons .radio,.search button
+{
+  cursor:pointer;
+}
+
+#header ul li a,
+.btn,
+.pagination a
+{
+  -moz-border-radius:2px;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  -moz-border-radius:10px;
+}
+
+.contact-list .friends_loader,.tipsy-inner
+{
+  -moz-border-radius:3px;
+}
+
+.search input#term
+{
+  -moz-border-radius:13px;
+}
+
+#header ul li a,
+.btn,
+.pagination a
+{
+  -webkit-border-radius:2px;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  -webkit-border-radius:10px;
+}
+
+.contact-list .friends_loader,.tipsy-inner
+{
+  -webkit-border-radius:3px;
+}
+
+.search input#term
+{
+  -webkit-border-radius:13px;
+}
+
+#header ul li a,
+.btn,
+.pagination a
+{
+  border-radius:2px;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  border-radius:10px;
+}
+
+.contact-list .friends_loader,.tipsy-inner
+{
+  border-radius:3px;
+}
+
+.search input#term
+{
+  border-radius:13px;
+}
+
+#header ul li a,
+.btn,
+.pagination a
+{
+  -webkit-box-shadow:inset 1px 1px 1px #CD2F2D;
+}
+
+.recommend
+{
+  -webkit-box-shadow:inset 1px 1px 1px #77A4FF;
+}
+
+#header ul li a:active,
+.btn:active
+{
+  -webkit-box-shadow:inset 1px 1px 1px #7F1C1A;
+}
+
+.recommend:active
+{
+  -webkit-box-shadow:inset 1px 1px 0px #5D81C9;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  -webkit-box-shadow:0 0 2px #999999;
+}
+
+#content
+{
+  -webkit-box-shadow:2px 2px 1px #CCC, -2px 2px 1px #CCC;
+}
+
+.search input#term
+{
+  -webkit-box-shadow:inset 1px 1px 1px #999;
+}
+
+.search input#term:focus
+{
+  -webkit-box-shadow:inset 1px 1px 1px #FF716B;
+}
+
+#header ul li a,
+.btn,
+.pagination a
+{
+  -moz-box-shadow:inset 1px 1px 1px #CD2F2D;
+}
+
+.recommend
+{
+  -moz-box-shadow:inset 1px 1px 1px #77A4FF;
+}
+
+#header ul li a:active,
+.btn:active
+{
+  -moz-box-shadow:inset 1px 1px 1px #7F1C1A;
+}
+
+.recommend:active
+{
+  -moz-box-shadow:inset 1px 1px 0px #5D81C9;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  -moz-box-shadow:0 0 2px #999999;
+}
+
+#content
+{
+  -moz-box-shadow:2px 1px 1px #CCC, -2px 2px 1px #CCC;
+}
+
+.search input#term
+{
+  -moz-box-shadow:inset 1px 1px 1px #999;
+}
+
+.search input#term:focus
+{
+  -moz-box-shadow:inset 1px 1px 1px #FF716B;
+}
+
+#header ul li a,
+.btn,
+.pagination a
+{
+  box-shadow:inset 1px 1px 1px #CD2F2D;
+}
+
+.recommend
+{
+  box-shadow:inset 1px 1px 1px #77A4FF;
+}
+
+#header ul li a:active,
+.btn:active
+{
+  box-shadow:inset 1px 1px 1px #7F1C1A;
+}
+
+.recommend:active
+{
+  box-shadow:inset 1px 1px 0px #5D81C9;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  box-shadow:0 0 2px #999999;
+}
+
+#content
+{
+  box-shadow:2px 2px 1px #CCC, -2px 2px 1px #CCC;
+}
+
+.search input#term
+{
+  box-shadow:inset 1px 1px 1px #999;
+}
+
+.search input#term:focus
+{
+  box-shadow:inset 1px 1px 1px #FF716B;
+}
+
+.recommend
+{
+  background-color:#ABCBFF;
+}
+
+.tipsy-inner
+{
+  background-color:#ED3835;
+}
+
+.recommend
+{
+  text-shadow:1px 1px 0px #2E65BE;
+}
+
+.pagination a.loading,.contact-list li a.info-toggle,
+.contact-list li a.like-toggle,.carousel .next,
+.carousel .prev,.tipsy form
+{
+  text-align:left;
+}
+
+.btn-list li a span,
+#header ul li a span,.carousel .preview,.pagination,.tipsy-inner
+{
+  text-align:center;
+}
+
+.contact-list dl dt,.profile form label,.friends-nav
+{
+  text-align:right;
+}
+
+.btn,
+.btn-list li,
+.pagination a,
+.pagination span.current,.profile form p button,
+.profile form p label,.user_actions_list li p span,
+.user_actions_list li p strong,
+.user_actions_list li p img
+{
+  vertical-align:middle;
+}
+
+.contact-list li.user-box
+{
+  vertical-align:top;
+}
+
+.btn,
+.btn-list li,
+.pagination a,
+.pagination span.current,.contact-list li.user-box,.profile form p button,
+.profile form p label,.user_actions_list li p span,
+.user_actions_list li p strong,
+.user_actions_list li p img
+{
+  zoom:1;
+}
+
+.btn,
+.btn-list li,
+.pagination a,
+.pagination span.current,.contact-list li.user-box,.profile form p button,
+.profile form p label,.user_actions_list li p span,
+.user_actions_list li p strong,
+.user_actions_list li p img
+{
+  *display:inline;
+}
+
+.btn-list li
+{
+  margin-right:5px;
+}
+
+.contact-list li a.info-toggle,
+.contact-list li a.like-toggle
+{
+  margin-right:3px;
+}
+
+.search label
+{
+  margin-right:8px;
+}
+
+.user_actions_list li p .icon
+{
+  margin-right:20px;
+}
+
+#header ul li a:active,
+.btn:active
+{
+  bottom:-1px;
+}
+
+.tipsy-s .tipsy-arrow,.tipsy-sw .tipsy-arrow,.tipsy-se .tipsy-arrow
+{
+  bottom:0;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  top:-7px;
+}
+
+.contact-list li a.info-toggle,
+.contact-list li a.like-toggle
+{
+  top:-6px;
+}
+
+.contact-list li a.info-toggle:active,
+.contact-list li a.like-toggle:active
+{
+  top:-3px;
+}
+
+.contact-list .reasons
+{
+  top:40px;
+}
+
+.about-steps ol li span,.es .tipsy-n .tipsy-arrow,.en .tipsy-n .tipsy-arrow,.tipsy-nw .tipsy-arrow,.tipsy-ne .tipsy-arrow
+{
+  top:0;
+}
+
+.carousel .next,
+.carousel .prev
+{
+  top:1px;
+}
+
+.search button
+{
+  top:7px;
+}
+
+.tipsy-e .tipsy-arrow,.tipsy-w .tipsy-arrow
+{
+  top:50%;
+}
+
+.btn-list li a span,
+#header ul li a span
+{
+  right:-7px;
+}
+
+.contact-list li a.info-toggle,
+.contact-list li a.like-toggle
+{
+  right:5px;
+}
+
+.contact-list li a.info-toggle
+{
+  right:50px;
+}
+
+.contact-list li a.info-toggle:active
+{
+  right:52px;
+}
+
+.contact-list .reasons
+{
+  right:-26px;
+}
+
+.carousel .next,.tipsy-e .tipsy-arrow
+{
+  right:0;
+}
+
+.tipsy-ne .tipsy-arrow,.tipsy-se .tipsy-arrow
+{
+  right:10px;
+}
+
+.contact-list
+{
+  padding-top:30px;
+}
+
+.contact-list dl,div.fans
+{
+  padding-top:20px;
+}
+
+.carousel
+{
+  padding-top:15px;
+}
+
+.contact-list,.carousel .preview,.friends-nav
+{
+  clear:both;
+}
+
+.contact-list li.user-box
+{
+  min-height:280px;
+}
+
+.carousel .thumbs
+{
+  min-height:45px;
+}
+
+.carousel .preview
+{
+  min-height:225px;
+}
+
+.contact-list li.user-box
+{
+  _height:280px;
+}
+
+.contact-list li a.info-toggle,
+.contact-list li a.like-toggle
+{
+  background-image:url('../images/bg_user_actions.png?3123');
+}
+
+.about-steps ol li span
+{
+  background-image:url('../images/bg_steps_numbers.gif');
+}
+
+.contact-list li a.info-toggle,
+.contact-list li a.like-toggle,.about-steps ol li span
+{
+  background-repeat:no-repeat;
+}
+
+.contact-list li a.info-toggle:hover
+{
+  background-position:left -59px;
+}
+
+.contact-list li a.like-toggle
+{
+  background-position:-44px top;
+}
+
+.contact-list li a.like-toggle:hover
+{
+  background-position:-44px -59px;
+}
+
+.contact-list li a.unlike
+{
+  background-position:-90px top;
+}
+
+.contact-list li a.unlike:hover
+{
+  background-position:-90px -59px;
+}
+
+.contact-list li a.info-toggle:active
+{
+  background-position:-5px -59px;
+}
+
+.contact-list li a.like-toggle:active
+{
+  background-position:-50px  -59px;
+}
+
+.contact-list li a.unlike:active
+{
+  background-position:-96px -59px;
+}
+
+.contact-list li a.sending,
+.contact-list li a.sending:active,
+.contact-list li a.sending:hover
+{
+  background-position:-139px top;
+}
+
+.about-steps .step-1 span,.carousel .prev
+{
+  background-position:left top;
+}
+
+.about-steps .step-2 span
+{
+  background-position:left center;
+}
+
+.about-steps .step-3 span,.carousel .prev:hover
+{
+  background-position:left bottom;
+}
+
+.carousel .next
+{
+  background-position:right top;
+}
+
+.carousel .next:hover
+{
+  background-position:right bottom;
+}
+
+.fans p.travel
+{
+  background-position:left -55px;
+}
+
+.fans p.movies
+{
+  background-position:left -83px;
+}
+
+.fans p.chat
+{
+  background-position:left -110;
+}
+
+.fans p.coffee
+{
+  background-position:left 0px;
+}
+
+.fans p.sex
+{
+  background-position:left -132px;
+}
+
+.fans p.other
+{
+  background-position:left -25px;
+}
+
+.fans p.dinner
+{
+  background-position:left -157px;
+}
+
+.tipsy-s .tipsy-arrow,.tipsy-sw .tipsy-arrow,.tipsy-se .tipsy-arrow
+{
+  background-position:bottom left;
+}
+
+.tipsy-e .tipsy-arrow
+{
+  background-position:top right;
+}
+
+.about-steps ol li span,.tipsy-nw .tipsy-arrow,.tipsy-sw .tipsy-arrow
+{
+  left:10px;
+}
+
+.carousel .prev,.tipsy-w .tipsy-arrow
+{
+  left:0;
+}
+
+.search button
+{
+  left:194px;
+}
+
+.es .tipsy-n .tipsy-arrow
+{
+  left:65%;
+}
+
+.en .tipsy-n .tipsy-arrow
+{
+  left:72%;
+}
+
+.tipsy-s .tipsy-arrow
+{
+  left:50%;
+}
+
+.carousel ul li a img
+{
+  border-right:1px solid #FFF;
+}
+
+.carousel ul li a img
+{
+  border-top:1px solid #FFF;
+}
+
+.fans p
+{
+  padding-left:25px;
+}
+
+.user_actions_list li,.page ul
+{
+  padding-left:20px;
+}
+
+.tipsy form p
+{
+  padding-left:2px;
+}
+
+.search input#term
+{
+  font-style:italic;
+}
+
+.tipsy-inner
+{
+  max-width:200px;
+}
+
